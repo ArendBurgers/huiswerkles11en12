@@ -1,0 +1,36 @@
+header{
+    background-color: rgb(196, 123, 75); width:80%; height: 150px;
+}
+footer{
+    background-color: rgb(126, 61, 23); width:80%; height: 150px;
+}
+table{
+    width:80%; border-style: solid;
+}
+td{
+    border-style:solid ; border-color: lightgray;
+}
+#aap{background-color: sandybrown;}
+#paap{background-color: gold;}
+#eekhoorn{background-color: goldenrod;}
+#peekhoorn{background-color: darkorange;}
+#hond{background-color: lime;}
+#phond{background-color: darkturquoise;}
+#koe{background-color: skyblue;}
+#pkoe{background-color: lightgreen;}
+#leeuw{background-color: purple;}
+#pleeuw{background-color: mistyrose;}
+#olifant{background-color: silver;}
+#polifant{background-color: plum;}
+#papagaai{background-color: darkorange;}
+#ppapagaai{background-color: crimson;}
+#tijger{background-color: chocolate;}
+#ptijger{background-color: darkkhaki;}
+#kaap{background-color: gold;}
+#keekhoorn{background-color: darkorange;}
+#khond{background-color: darkturquoise;}
+#kkoe{background-color: lightgreen;}
+#kleeuw{background-color: mistyrose;}
+#kolifant{background-color: plum;}
+#kpapagaai{background-color: crimson;}
+#ktijger{background-color: darkkhaki;}
